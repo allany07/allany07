@@ -31,15 +31,9 @@ Abaixo estão alguns dos projetos que estou desenvolvendo (ou já desenvolvi) �
    - Desenvolver um sistema que otimiza o atendimento ao cliente, permitindo que ele realize operações como a triagem de serviços, retirada de fichas e acompanhamento do tempo de espera.
 
 ## Stats
-
 <div align="center">
-  
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allany07&theme=github_dark" alt="Allany Santos' GitHub Stats" />
-  
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allany07&theme=github_dark" alt="Allany Santos' Most Used Languages" />
-  
 </div>
 
 ## Meus Contatos
