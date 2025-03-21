@@ -7,7 +7,7 @@ Sou acadêmica em Ciências da Computação na UERN, tenho interesse em áreas c
 - 💻 Explorando diversas áreas, mas com foco em **Desenvolvimento Web**.
 - ⚡ Amo compartilhar conhecimento e aprender coisas novas todos os dias.
 
-## Tecnologias e Ferramentas 💻
+# Tecnologias e Ferramentas 💻
 
 <div align="center">
   <!-- Python -->
