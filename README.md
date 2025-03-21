@@ -7,7 +7,7 @@ Sou acadêmica em Ciências da Computação na UERN, tenho interesse em áreas c
 - 💻 Explorando diversas áreas, mas com foco em **Desenvolvimento Web**.
 - ⚡ Amo compartilhar conhecimento e aprender coisas novas todos os dias.
 
-Tecnologias e Ferramentas 💻
+## Tecnologias e Ferramentas 💻
 
 <div align="center">
   <!-- Python -->
@@ -20,13 +20,13 @@ Tecnologias e Ferramentas 💻
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode" />
 </div>
 
-Projetos em Destaque ⚡
+# Projetos em Destaque ⚡
 Abaixo estão alguns dos projetos que estou desenvolvendo (ou já desenvolvi) – incluindo trabalhos acadêmicos e outros que comentei em outros chats:
 
 1. **Sistema-Totem-Autoatendimento**  
    - Desenvolver um sistema que otimiza o atendimento ao cliente, permitindo que ele realize operações como a triagem de serviços, retirada de fichas e acompanhamento do tempo de espera.
 
-Stats 🔥
+# Stats 🔥
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allany07&theme=github_dark" alt="Allany Santos' GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allany07&theme=github_dark" alt="Allany Santos' Most Used Languages" />
