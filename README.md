@@ -2,7 +2,7 @@
 
 Sou acadêmica em Ciências da Computação na UERN, tenho interesse em áreas como desenvolvimento de software, gestão de projetos e tecnologia aplicada a causas sociais.
 
-## Sobre mim
+# Sobre mim
 - 🎓 Estudante de **Ciências da Computação**.
 - 💻 Explorando diversas áreas, mas com foco em **Desenvolvimento Web**.
 - ⚡ Amo compartilhar conhecimento e aprender coisas novas todos os dias.
