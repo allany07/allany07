@@ -42,9 +42,10 @@ Abaixo estão alguns dos projetos que estou desenvolvendo (ou já desenvolvi) �
   
 </div>
 
-## Como me encontrar
-- **E-mail**: [allany01santos@gmail.com](mailto:allany01santos@gmail.com)
-- **LinkedIn**: [www.linkedin.com/in/allany-santos-282924352](https://www.linkedin.com/in/allany-santos-282924352)
+## Meus Contatos
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allany01santos@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allany-santos-282924352)
 
 <p align="center">
   Feito com 💙 por Allany Santos
