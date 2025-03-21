@@ -18,17 +18,11 @@ Sou acadêmica em Ciências da Computação na UERN, tenho interesse em áreas c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
   <!-- CSS3 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode" />
 </div>
-
-> *Esses ícones são apenas exemplos de logos. Sinta-se à vontade para incluir outras tecnologias ou remover o que não usar.*
 
 ## Projetos em Destaque
 Abaixo estão alguns dos projetos que estou desenvolvendo (ou já desenvolvi) – incluindo trabalhos acadêmicos e outros que comentei em outros chats:
