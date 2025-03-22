@@ -32,7 +32,7 @@ Abaixo estão alguns dos projetos que estou desenvolvendo (ou já desenvolvi) �
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allany07&theme=github_dark" alt="Allany Santos' Most Used Languages" />
 </div>
 
-# Meus Contatos 📣
+# Meus Contatos 📟
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allany01santos@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allany-santos-282924352)
