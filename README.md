@@ -2,7 +2,7 @@
 
 Sou acadêmica em Ciências da Computação na UERN, tenho interesse em áreas como desenvolvimento de software, gestão de projetos e tecnologia aplicada a causas sociais.
 
-# Sobre mim
+# Sobre mim 🔥
 - 🎓 Estudante de **Ciências da Computação**.
 - 💻 Explorando diversas áreas, mas com foco em **Desenvolvimento Web**.
 - ⚡ Amo compartilhar conhecimento e aprender coisas novas todos os dias.
@@ -26,7 +26,7 @@ Abaixo estão alguns dos projetos que estou desenvolvendo (ou já desenvolvi) �
 1. **Sistema-Totem-Autoatendimento**  
    - Desenvolver um sistema que otimiza o atendimento ao cliente, permitindo que ele realize operações como a triagem de serviços, retirada de fichas e acompanhamento do tempo de espera.
 
-# Stats 🔥
+# Stats ⭐
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allany07&theme=github_dark" alt="Allany Santos' GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allany07&theme=github_dark" alt="Allany Santos' Most Used Languages" />
