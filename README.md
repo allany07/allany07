@@ -25,6 +25,8 @@ Abaixo estão alguns dos projetos que estou desenvolvendo (ou já desenvolvi) �
 
 1. **Sistema-Totem-Autoatendimento**  
    - Desenvolver um sistema que otimiza o atendimento ao cliente, permitindo que ele realize operações como a triagem de serviços, retirada de fichas e acompanhamento do tempo de espera.
+2. ** Front-End para Iniciantes**
+   -  Projeto que estou desenvolvendo para aprender e praticar os fundamentos do desenvolvimento front-end. A ideia é explorar alguns conceitos como HTML, CSS, JavaScript e boas práticas do front end.
 
 # Stats ⭐
 <div align="center">
