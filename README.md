@@ -9,16 +9,28 @@ Sou acadêmica em Ciências da Computação na UERN, tenho interesse em áreas c
 
 # Tecnologias e Ferramentas 💻
 
+# Tecnologias e Ferramentas 💻
+
 <div align="center">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+  
   <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C" />
+  
   <!-- HTML5 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
+  
+  <!-- CSS3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
+  
+  <!-- Django -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django" />
+  
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode" />
 </div>
+
 
 # Projetos em Destaque ⚡
 Abaixo estão alguns dos projetos que estou desenvolvendo (ou já desenvolvi) – incluindo trabalhos acadêmicos e outros que comentei em outros chats:
