@@ -26,7 +26,7 @@ Sou acadêmica em Ciências da Computação na UERN, com interesse em desenvolvi
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VSCode" />
-  <img width="69" height="84" alt="image" src="https://github.com/user-attachments/assets/b7b3f7fc-96ef-4f0a-b554-c4804d1e2a7f" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub" style="background-color:#ffffff; border-radius:15px; padding:10px;" />
 </div>
 
 ---
