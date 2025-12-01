@@ -1,57 +1,69 @@
 # Olá, eu sou a Allany Santos! 👋
 
-Sou acadêmica em Ciências da Computação na UERN, tenho interesse em áreas como desenvolvimento de software, gestão de projetos e tecnologia aplicada a causas sociais.
+Sou acadêmica em Ciências da Computação na UERN, com interesse em desenvolvimento de software, engenharia de sistemas e criação de soluções tecnológicas eficientes. Gosto de aprender, ensinar e transformar ideias em projetos reais.
 
-# Sobre mim 🔥
+---
+
+## Sobre mim 🔥
 - 🎓 Estudante de **Ciências da Computação**.
-- 💻 Explorando diversas áreas, mas com foco em **Desenvolvimento Web**.
+- 💻 Explorando diversas áreas, com foco atual em **Desenvolvimento Web**.
 - ⚡ Amo compartilhar conhecimento e aprender coisas novas todos os dias.
+- 🚀 Entusiasta de projetos que geram impacto real e melhorias no dia a dia.
 
-# Tecnologias e Ferramentas 💻
+---
 
-# Tecnologias e Ferramentas 💻
+## Tecnologias e Ferramentas 💻
 
-<div align="center">
-  <!-- Python -->
+### 🧠 Linguagens
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-  
-  <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C" />
-  
-  <!-- HTML5 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
-  
-  <!-- CSS3 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
-  
-  <!-- Django -->
+</div>
+
+### 🛠️ Frameworks & Ferramentas
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django" />
-  
-  <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode" />
 </div>
 
+---
 
-# Projetos em Destaque ⚡
-Abaixo estão alguns dos projetos que estou desenvolvendo (ou já desenvolvi) – incluindo trabalhos acadêmicos e outros que comentei em outros chats:
+## Projetos em Destaque ⚡
 
-1. **Sistema-Totem-Autoatendimento**  
-   - Desenvolver um sistema que otimiza o atendimento ao cliente, permitindo que ele realize operações como a triagem de serviços, retirada de fichas e acompanhamento do tempo de espera.
-2. **Front-End para Iniciantes**
-   -  Projeto que estou desenvolvendo para aprender e praticar os fundamentos do desenvolvimento front-end. A ideia é explorar alguns conceitos como HTML, CSS, JavaScript e boas práticas do front end.
-3. **React**
-   - Repositório dedicado ao meu processo de aprendizagem em React. Estou acompanhando uma aula prática e separando os conceitos por blocos de tempo para facilitar o estudo e a revisão.
+### 🔵 Sistema Totem de Autoatendimento
+Sistema voltado para otimizar o atendimento ao cliente, permitindo triagem de serviços, emissão de fichas e acompanhamento de tempo de espera.  
+**Tecnologias:** Django, HTML, CSS, JS.
 
-# Stats ⭐
+---
+
+### 🟠 Front-End para Iniciantes
+Projeto criado para estudar e reforçar fundamentos do desenvolvimento web.  
+Explora HTML, CSS e boas práticas de estruturação de páginas.
+
+---
+
+### 🟣 Estudos em React
+Repositório dedicado ao meu processo de aprendizagem em React, com anotações e códigos baseados em aulas práticas.  
+Organizado por blocos e conceitos para facilitar revisão.
+
+---
+
+## Stats ⭐
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allany07&theme=github_dark" alt="Allany Santos' GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allany07&theme=github_dark" alt="Allany Santos' Most Used Languages" />
 </div>
 
-# Meus Contatos 📟
+---
+
+## Meus Contatos 📟
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allany01santos@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allany-santos-282924352)
+
+---
 
 <p align="center">
   Feito com 💙 por Allany Santos
