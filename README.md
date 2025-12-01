@@ -25,7 +25,7 @@ Sou acadêmica em Ciências da Computação na UERN, com interesse em desenvolvi
 ### 🛠️ Estruturas e Ferramentas
 <div align="left">
   <div align="left"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode     original.svg" width="60" height="60" alt="VSCode" /> <!-- BOOTSTRAP COM COR CERTA -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VSCode" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="Bootstrap" style="background-color: #1f1f1f; padding: 10px; border-radius: 12px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" />
 </div>
