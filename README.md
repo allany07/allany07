@@ -1,6 +1,6 @@
 # Olá, eu sou a Allany Santos! 👋
 
-Sou acadêmica em Ciências da Computação na UERN, com interesse em desenvolvimento de software, engenharia de processos e Criação de Soluções Tecnológicas. Gosto de aprender, ensinar e transformar ideias em projetos reais.
+Sou acadêmica em Ciências da Computação na UERN, com interesse em desenvolvimento de software, gestão de projetos e criação de Soluções Tecnológicas. Gosto de aprender, ensinar e transformar ideias em projetos reais.
 
 ---
 
